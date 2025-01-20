@@ -1,0 +1,12 @@
+
+app/.env
+.venv/  
+.idea/
+build/
+.pytest_cache/
+alembic.ini
+alembic/versions/
+.git/
+.vscode/
+.DS_Store
+.coverage
