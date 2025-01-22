@@ -10,3 +10,5 @@ alembic/versions/
 .vscode/
 .DS_Store
 .coverage
+app/.env.development
+app/.env.production

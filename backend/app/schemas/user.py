@@ -12,3 +12,11 @@ class User(BaseModel):
 
     class Config:
         orm_mode = True
+
+class UserCreate(BaseModel):
+    username: str
+    email: str
+    full_name: str
+    password: str
+    class Config:
+        orm_mode = True
