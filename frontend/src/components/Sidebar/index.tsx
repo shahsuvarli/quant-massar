@@ -372,7 +372,6 @@ const Sidebar = ({ sidebarOpen, setSidebarOpen }: SidebarProps) => {
               <span className="text-3xl font-bold text-white">Quant</span>
               <span className="text-3xl font-bold text-warning">m</span>
             </span>
-
           </Link>
 
           <button
